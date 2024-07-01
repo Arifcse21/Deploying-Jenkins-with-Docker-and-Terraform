@@ -1,0 +1,45 @@
+# Core Functionality
+workflow-aggregator
+git
+pipeline
+docker-workflow
+
+# Code Quality and Analysis
+checkstyle
+findbugs
+pmd
+jacoco
+cobertura
+sonar
+
+# Notifications and Reporting
+email-ext
+slack
+htmlpublisher
+junit
+
+# Version Control
+git
+github
+subversion
+
+# Deployment and Provisioning
+ansible
+docker-build-publish
+kubernetes
+terraform
+
+# Monitoring and Metrics
+metrics
+performance
+
+# User Authentication and Authorization
+matrix-auth
+ldap
+role-strategy
+
+# Miscellaneous
+credentials-binding
+envinject
+build-timeout
+pipeline-github-lib
